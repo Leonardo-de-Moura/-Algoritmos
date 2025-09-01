@@ -1,0 +1,1 @@
+repositorio destinado ao acumulo de material e reflexoes acerca do livro "Entendendo Algoritmos"
